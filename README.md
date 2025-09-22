@@ -37,6 +37,6 @@ This repository contains my submission for Task 1 of the Cybersecurity Internshi
 - Learned about port security and associated risks
 - Developed documentation skills for cybersecurity tasks
 
- Author:-
-  Nadeem
-Cybersecurity Intern
+ # Author
+  Nadeem Hasan 
+:-Cybersecurity Intern
